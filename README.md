@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Ma Stack Technique & Compétences
+### 💻 • Ma Stack Technique & Compétences
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 • Mes Statistiques GitHub
 
 <div align="center">
   <p>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌐 Me Contacter & Liens
+### 🌐 • Me Contacter & Liens
 
 <div align="center">
   <a href="https://vyndevv.github.io" target="_blank">
