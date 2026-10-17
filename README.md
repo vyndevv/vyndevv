@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Salut, c'est Vyn !</h1>
+  <h1>Moi, c'est Vyn.</h1>
   <p><b>Étudiant en première année de développement, IA et data</b></p>
   
   <p>
