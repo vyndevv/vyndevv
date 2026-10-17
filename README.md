@@ -71,5 +71,5 @@
 <div align="center">
   <br>
   <!-- Compteur de visites -->
-  <img src="https://komarev.com/ghpvc/?username=vyndevv&color=blueviolet&style=flat-square&label=Vues+du+profil" alt="Compteur de visites" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvyndevv&count_bg=%237B1FA2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vues+du+profil&edge_flat=false" alt="Compteur de visites" />
 </div>
