@@ -57,5 +57,5 @@
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/vyndevv/vyndevv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://snk-v1.vercel.app/api/vyndevv" alt="Snake contribution animation" />
 </div>
