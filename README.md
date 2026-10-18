@@ -48,6 +48,9 @@
   <a href="https://discord.com/users/v7f4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-v7f4-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <a href="https://vyn7.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Alternative Website">
+  </a>
 </div>
 
 ---
