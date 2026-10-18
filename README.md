@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>Moi, c'est Vyn.</h1>
-  <p><b>Étudiant en première année de développement, IA et data</b></p>
+  <h1>Hey, I'm Vyn.</h1>
+  <p><b>First-year Software Engineering, AI & Data Science Student</b></p>
   
   <p>
-    <img src="https://img.shields.io/badge/Langues-Français%20%2F%20Anglais-blue?style=for-the-badge&logo=translate" alt="Langues">
-    <img src="https://img.shields.io/badge/Statut-Étudiant-orange?style=for-the-badge&logo=student" alt="Statut">
+    <img src="https://img.shields.io/badge/Languages-French%20%2F%20English-blue?style=for-the-badge&logo=translate" alt="Languages">
+    <img src="https://img.shields.io/badge/Status-Student-orange?style=for-the-badge&logo=student" alt="Status">
   </p>
 </div>
 
 ---
 
-### 💻 • Ma Stack Technique & Compétences
+### 💻 • Tech Stack & Skills
 
 <div align="center">
 
-| Catégorie | Technologies |
+| Category | Technologies |
 | :---: | :--- |
-| **Langages** | `HTML5` `CSS3` `JavaScript` `Lua` `SQL` `Python` `C` |
-| **Frameworks & Outils** | `Node.js` `MySQL` `Git` |
+| **Languages** | `HTML5` `CSS3` `JavaScript` `Lua` `SQL` `Python` `C` |
+| **Frameworks & Tools** | `Node.js` `MySQL` `Git` |
 
 <br>
 
-<!-- Badges colorés -->
+<!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -39,14 +39,14 @@
 
 ---
 
-### 📊 • Mes Statistiques GitHub
+### 📊 • GitHub Stats
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vyndevv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques GitHub de Vyn" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vyndevv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vyn's GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyndevv&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyndevv&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyndevv&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌐 • Me Contacter & Liens
+### 🌐 • Connect with Me & Links
 
 <div align="center">
   <a href="https://vyndevv.github.io" target="_blank">
@@ -70,6 +70,6 @@
 
 <div align="center">
   <br>
-  <!-- Compteur de visites -->
-  <img src="https://komarev.com/ghpvc/?username=vyndevv&color=7b1fa2&style=for-the-badge&label=VUES+DU+PROFIL" alt="Compteur de visites" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=vyndevv&color=7b1fa2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
