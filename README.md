@@ -57,6 +57,5 @@
 
 <div align="center">
   <br>
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=vyndevv&color=7b1fa2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://raw.githubusercontent.com/vyndevv/vyndevv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
