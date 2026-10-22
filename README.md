@@ -55,6 +55,16 @@
 
 ---
 
+### 🌐 • Other links
+
+<div align="center">
+  <a href="https://nitradc.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Nitra-website-008020?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Nitra Website">
+  </a>
+</div>
+
+---
+
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/vyndevv/vyndevv/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
