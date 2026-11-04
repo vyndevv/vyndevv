@@ -65,6 +65,14 @@
 
 ---
 
+### 💻 • Work in Progress
+
+<div align="center">
+  <img src="https://i.imgur.com/xS5zk93.png" alt="Strez">
+</div>
+
+---
+
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/vyndevv/vyndevv/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
