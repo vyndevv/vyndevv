@@ -48,7 +48,7 @@
   <a href="https://discord.com/users/v7f4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-v7f4-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://vyn7.netlify.app" target="_blank">
+  <a href="https://profile.vynn.dev" target="_blank">
     <img src="https://img.shields.io/badge/Profile-website-d12815?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Alternative Website">
   </a>
 </div>
